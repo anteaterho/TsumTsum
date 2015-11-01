@@ -6,7 +6,8 @@
 
 ## Platform
 DeskTop(PC)
-Android (Nexus7)
+
+Android(Nexus7)
 
 ## Requirement
 1.Unity3D : [Unity5][unity]
